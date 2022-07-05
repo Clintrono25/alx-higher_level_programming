@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""function tthat returns the JSON rep of an object (string)
-"""
+'''function tthat returns the JSON rep of an object (string)
+'''
 
 import json
 
