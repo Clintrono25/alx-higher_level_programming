@@ -1,1 +1,1 @@
-<hi>Python Inheritance</h1>
+0x0A. Python - Inheritance
