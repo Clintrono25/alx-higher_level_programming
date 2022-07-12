@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""Unitest class Rectangle"""
+"""Unit test class Rectangle"""
 import unittest
 import json
 import sys
 import os
-from model.rectangle import Rectangle
+from models.rectangle import Rectangle
