@@ -1,1 +1,0 @@
-<h1>Javascript Objects, Scopes, Closures</h1>
